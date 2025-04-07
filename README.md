@@ -29,7 +29,4 @@ c) find the $$t$$- statistic for every factor loading
       Python (Python 3.11.9)
       
 
-## Summary of Results
-<font size="5">$$R^2=0.167$$
-$$b=0.1261$$
-</font>
+
